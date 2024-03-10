@@ -1,0 +1,2 @@
+# minterr
+bams minter
